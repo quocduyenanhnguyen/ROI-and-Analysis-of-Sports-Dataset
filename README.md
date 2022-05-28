@@ -3,7 +3,6 @@
 # Software I used: 
 Microsoft Excel 
 
-There are two projects that I did with my classmates. 
 # First project: 
 I was primarily in charge of building a model in Excel spreadsheet to determine ending fund balance and corresponding rate of return as well as generating insights from my model for retirement savings. I also formatted the PowerPoint slides and delegated tasks for our group presentation. You can preview the screenshot of a few of my PowerPoint slides here:
 - (https://user-images.githubusercontent.com/92205707/170793946-22b8ec09-6c8d-4fea-b2f3-33703b3c9910.png)
